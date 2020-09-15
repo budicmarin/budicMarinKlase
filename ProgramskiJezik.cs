@@ -8,6 +8,6 @@ namespace budicMarinKlase
 {
     class ProgramskiJezik
     {
-        public double Postotak;
+        public double Postotak { get; set; }
     }
 }
